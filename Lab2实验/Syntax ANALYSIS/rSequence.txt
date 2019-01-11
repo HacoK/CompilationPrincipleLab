@@ -1,0 +1,14 @@
+E->id
+E->id
+C->EcmpE
+E->id
+E->id
+E->E+-E
+A->id=E
+E->id
+E->id
+E->E+-E
+A->id=E
+L->iCtAeA
+S->L
+Accept!

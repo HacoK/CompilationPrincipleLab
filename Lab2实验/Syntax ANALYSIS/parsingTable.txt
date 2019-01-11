@@ -1,0 +1,68 @@
+S	i	t	e	cmp	id	(	)	*/	+-	=	$	L	C	E	A
+0	S2											S1
+1											ACC
+2					S6	S5							S3	S4
+3		S7
+4				S8				S9	S10
+5					S13	S12								S11
+6				R8	R8
+7					S15										S14
+8					S18	S17								S16
+9					S6	S5								S19
+10					S6	S5								S20
+11							S21	S22	S23
+12					S13	S12								S24
+13							R8	R8	R8
+14			S25								R1
+15										S26
+16		R3						S27	S28
+17					S18	S17								S29
+18		R8						R8	R8
+19				R5				R5	R5
+20				R6				S9	R6
+21				R7				R7	R7
+22					S13	S12								S30
+23					S13	S12								S31
+24							S32	S22	S23
+25					S34										S33
+26					S37	S36								S35
+27					S18	S17								S38
+28					S18	S17								S39
+29							S40	S27	S28
+30							R5	R5	R5
+31							R6	S22	R6
+32							R7	R7	R7
+33					S34						R2
+34										S41
+35			R4					S42	S43		R4
+36					S37	S36								S44
+37			R8					R8	R8		R8
+38		R5						R5	R5
+39		R6						S27	R6
+40		R7						R7	R7
+41					S47	S46								S45
+42					S37	S36								S48
+43					S37	S36								S49
+44							S56	S42	S43
+45								S50	S51		R4
+46					S47	S46								S52
+47								R8	R8		R8
+48			R5					R5	R5		R5
+49			R6					S42	R6		R6
+50					S47	S46								S53
+51					S47	S46								S54
+52							S55	S50	S51
+53								R5	R5		R5
+54								S50	R6		R6
+55								R7	R7		R7
+56			R7					R7	R7		R7
+
+0:S->L
+1:L->iCtA
+2:L->iCtAeA
+3:C->EcmpE
+4:A->id=E
+5:E->E*/E
+6:E->E+-E
+7:E->(E)
+8:E->id

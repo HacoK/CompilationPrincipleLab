@@ -1,0 +1,17 @@
+i
+id
+cmp
+id
+t
+id
+=
+id
+-
+id
+e
+id
+=
+id
+-
+id
+$

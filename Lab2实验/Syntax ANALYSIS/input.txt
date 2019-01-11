@@ -1,0 +1,17 @@
+//Just to have a Test
+
+//Test 1
+/*if x>y
+then
+diff=x-y
+else
+diff=y-x*/
+
+//Test 2
+/*if z>x+y
+then
+D_value=z-(x+y)*/
+
+//Test 3
+/*if z>x+y
+  D_value=z-(x+y)*/

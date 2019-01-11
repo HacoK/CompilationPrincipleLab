@@ -1,0 +1,16 @@
+<Keyword,if>
+<ID,x>
+<Operator,>>
+<ID,y>
+<Keyword,then>
+<ID,diff>
+<Operator,=>
+<ID,x>
+<Operator,->
+<ID,y>
+<Keyword,else>
+<ID,diff>
+<Operator,=>
+<ID,y>
+<Operator,->
+<ID,x>
